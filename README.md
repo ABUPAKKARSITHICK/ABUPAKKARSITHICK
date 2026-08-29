@@ -1,157 +1,184 @@
 # ⚡ ABUPAKKAR SITHICK A
 
-### `ECE ENGINEER` • `JAVA FULL STACK DEVELOPER` • `EMBEDDED SYSTEMS BUILDER`
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=900&color=00F7FF&center=true&vCenter=true&width=800&lines=BUILDING+SYSTEMS%2C+NOT+JUST+PROJECTS.;JAVA+%7C+SPRING+BOOT+%7C+REACT+%7C+MYSQL;EMBEDDED+SYSTEMS+%7C+IOT+%7C+ESP32;TURNING+IDEAS+INTO+REAL-WORLD+SOLUTIONS.;ALWAYS+LEARNING.+ALWAYS+BUILDING." alt="Typing SVG" />
+
+```text
+██████╗ ███████╗██╗   ██╗███████╗██╗      ██████╗ ██████╗ ███████╗██████╗ 
+██╔══██╗██╔════╝██║   ██║██╔════╝██║     ██╔═══██╗██╔══██╗██╔════╝██╔══██╗
+██████╔╝█████╗  ██║   ██║█████╗  ██║     ██║   ██║██████╔╝█████╗  ██████╔╝
+██╔══██╗██╔══╝  ╚██╗ ██╔╝██╔══╝  ██║     ██║   ██║██╔══██╗██╔══╝  ██╔══██╗
+██████╔╝███████╗ ╚████╔╝ ███████╗███████╗╚██████╔╝██║  ██║███████╗██║  ██║
+╚═════╝ ╚══════╝  ╚═══╝  ╚══════╝╚══════╝ ╚═════╝ ╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝
+```
+
+### `JAVA FULL STACK DEVELOPER • PROBLEM SOLVER • BUILDER`
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=20&pause=700&color=00F7FF&center=true&vCenter=true&width=850&lines=CODE.+BUILD.+BREAK.+DEBUG.+REPEAT.;JAVA+%7C+SPRING+BOOT+%7C+REACT+%7C+MYSQL;BUILDING+REAL-WORLD+FULL+STACK+SYSTEMS;TURNING+IDEAS+INTO+WORKING+SOFTWARE;NO+EXCUSES.+JUST+PROGRESS." />
+
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ABUPAKKARSITHICK&label=PROFILE%20VIEWS&color=00F7FF&style=for-the-badge"/>
-  <img src="https://img.shields.io/github/followers/ABUPAKKARSITHICK?label=FOLLOWERS&style=for-the-badge&color=111827"/>
-  <img src="https://img.shields.io/github/stars/ABUPAKKARSITHICK?label=STARS&style=for-the-badge&color=111827"/>
+<img src="https://img.shields.io/badge/FOCUS-JAVA%20FULL%20STACK-00F7FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/MINDSET-BUILD%20%7C%20DEBUG%20%7C%20IMPROVE-111827?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20OPPORTUNITIES-00FF88?style=for-the-badge"/>
 </p>
 
 ---
 
-## `> whoami`
+# `> SYSTEM.INFO`
 
-```text
-Name        : Abupakkar Sithick A
-Education   : B.E. Electronics & Communication Engineering
-College     : V.S.B Engineering College, Karur
+```bash
+$ whoami
 
-Primary     : Java Full Stack Development
-Secondary   : Embedded Systems & IoT
+Abupakkar Sithick A
 
-Backend     : Java • Spring Boot • REST APIs
-Frontend    : React.js • JavaScript • HTML • CSS
+Role        : Java Full Stack Developer
+Focus       : Backend Engineering + Full Stack Development
+Primary     : Java
+Backend     : Spring Boot | REST API
+Frontend    : React.js | JavaScript | HTML | CSS
 Database    : MySQL
-Embedded    : ESP32 • Sensors • IoT
-Tools       : Git • GitHub
+Tools       : Git | GitHub | Postman | VS Code
 
-Mindset     : BUILD → BREAK → DEBUG → IMPROVE
+Current Mode:
+[████████████████████████████████████] 100%
+
+MISSION:
+Build scalable applications.
+Solve real-world problems.
+Keep learning.
+Keep shipping.
 ```
 
 ---
 
-# `01 // ENGINEERING PROFILE`
+# `01 // ABOUT`
 
-I'm an **ECE Engineer** who enjoys working at the intersection of **software, hardware and real-world problem solving**.
+I’m a **Java Full Stack Developer** focused on building practical, real-world applications.
 
-I don't want to build projects just to add them to a resume.
-
-I build projects to understand:
-
-* How systems work
-* How software communicates with hardware
-* How APIs connect applications
-* How databases manage real-world data
-* How technology can solve practical problems
-
-### Current Mission
+My approach is simple:
 
 ```text
-        LEARN
-          ↓
-       BUILD
-          ↓
-       DEBUG
-          ↓
-       DEPLOY
-          ↓
-       IMPROVE
-          ↓
-        REPEAT
+IDEA
+ ↓
+ARCHITECT
+ ↓
+CODE
+ ↓
+TEST
+ ↓
+DEBUG
+ ↓
+DEPLOY
+ ↓
+IMPROVE
 ```
+
+I enjoy working across the stack — from designing backend APIs and database structures to building responsive frontend interfaces.
+
+### What I care about
+
+`Clean Code` • `Problem Solving` • `Backend Logic` • `APIs` • `Databases` • `User Experience`
 
 ---
 
-# `02 // TECH STACK`
+# `02 // ARSENAL`
+
+### `LANGUAGES`
+
+<p>
+<img src="https://skillicons.dev/icons?i=java,js"/>
+</p>
 
 ### `BACKEND`
 
 <p>
-<img src="https://skillicons.dev/icons?i=java,spring,mysql"/>
+<img src="https://skillicons.dev/icons?i=spring"/>
 </p>
 
 ### `FRONTEND`
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react"/>
+<img src="https://skillicons.dev/icons?i=html,css,react"/>
+</p>
+
+### `DATABASE`
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql"/>
 </p>
 
 ### `TOOLS`
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman"/>
+<img src="https://skillicons.dev/icons?i=git,github,postman,vscode"/>
 </p>
-
-### `EMBEDDED / IOT`
-
-<p>
-<img src="https://skillicons.dev/icons?i=arduino"/>
-</p>
-
-```text
-JAVA              █████████████████░░░
-SPRING BOOT       ███████████████░░░░░
-SQL / MYSQL       ███████████████░░░░░
-REACT             ████████████░░░░░░░░
-DSA               ███████████░░░░░░░░░
-EMBEDDED SYSTEMS  ████████████░░░░░░░░
-IOT               ████████████░░░░░░░░
-```
 
 ---
 
-# `03 // FEATURED PROJECTS`
+# `03 // FEATURED BUILDS`
 
 ## 🏢 SPACE2BUSINESS AI
 
-### `AI-POWERED RENTAL SPACE & BUSINESS TRANSFORMATION PLATFORM`
-
-**Java • Spring Boot • React.js • MySQL • REST API**
-
-> A full-stack platform designed to connect commercial spaces with business opportunities.
-
-### Core Engineering
+### `AI-POWERED COMMERCIAL SPACE & BUSINESS PLATFORM`
 
 ```text
-PROPERTY LISTING
-       ↓
-LOCATION SEARCH
-       ↓
-PROPERTY ANALYSIS
-       ↓
+Java
+Spring Boot
+React.js
+MySQL
+REST API
+```
+
+**What I built**
+
+A full-stack platform designed to help users discover commercial rental spaces and evaluate business opportunities.
+
+```text
+USER
+ │
+ ▼
+PROPERTY SEARCH
+ │
+ ▼
+LOCATION ANALYSIS
+ │
+ ▼
 BUSINESS OPPORTUNITY
-       ↓
+ │
+ ▼
 COST ESTIMATION
-       ↓
+ │
+ ▼
 SERVICE MANAGEMENT
 ```
 
-### Features
+### `CORE FEATURES`
 
-* Commercial property listing & discovery
+* Commercial space listing
 * Location-based search
-* Property details & image management
+* Property details
+* Image management
 * AI-assisted location analysis
 * Business opportunity recommendations
-* Construction cost estimation
+* Cost estimation
 * Construction service management
 
 ---
 
-## 🛡️ TRIPGUARD
+# 🛡️ TRIPGUARD
 
-### `SMART TOURIST SAFETY & INCIDENT RESPONSE SYSTEM`
+### `SMART TOURIST SAFETY & INCIDENT RESPONSE PLATFORM`
 
-**Java • Spring Boot • React.js • JWT • MySQL**
+```text
+Java
+Spring Boot
+React.js
+JWT
+MySQL
+```
 
-> A technology-driven platform designed to improve tourist safety using AI, location intelligence and automated incident handling.
-
-### System Architecture
+A full-stack safety platform combining authentication, location intelligence, alerts and AI-based analysis.
 
 ```text
 TOURIST
@@ -162,38 +189,46 @@ TOURIST
    └── GEO-FENCE
           │
           ▼
-     BACKEND API
+      REST API
           │
-    ┌─────┴─────┐
-    ▼           ▼
- AI ANALYSIS   DATABASE
-    │
-    ▼
-SAFETY ALERT
-    │
-    ▼
+     ┌────┴────┐
+     ▼         ▼
+    AI       MYSQL
+     │
+     ▼
+  ALERT ENGINE
+     │
+     ▼
 AUTHORITY DASHBOARD
 ```
 
-### Features
+### `CORE FEATURES`
 
-* Secure digital tourist identity
-* AI-based tourist safety scoring
+* Secure digital tourist ID
+* JWT authentication
+* OTP verification
+* SOS emergency system
+* Live location sharing
 * Geo-fencing alerts
-* SOS & live location sharing
-* OTP authentication
+* AI safety scoring
 * AI anomaly detection
-* Police / tourism authority dashboard
+* Authority dashboard
 
 ---
 
-## 🌊 FLOODGUARD IoT
+# 🌊 FLOODGUARD
 
-### `EARLY FLOOD DETECTION & SMART WARNING SYSTEM`
+### `IOT EARLY FLOOD DETECTION SYSTEM`
 
-**ESP32 • Sensors • IoT • Blynk • Cloud**
+```text
+ESP32
+Sensors
+IoT
+Blynk
+Cloud
+```
 
-> An IoT-based monitoring system designed to detect rising water levels and provide early warnings.
+A real-time monitoring system designed to detect abnormal water-level changes and provide early warnings.
 
 ```text
 SENSORS
@@ -204,52 +239,92 @@ DATA PROCESSING
    ↓
 CLOUD
    ↓
-REAL-TIME DASHBOARD
+REAL-TIME MONITORING
    ↓
-EARLY WARNING
+EARLY ALERT
 ```
-
-### Features
-
-* Real-time water-level monitoring
-* Rainfall monitoring
-* ESP32-based IoT architecture
-* Threshold-based alerts
-* Cloud monitoring
-* Blynk visualization
-* Emergency response support
 
 ---
 
-# `04 // INTERNSHIP EXPERIENCE`
+# `04 // DEVELOPMENT STACK`
 
-### 💻 FULL STACK WEB DEVELOPMENT
+```text
+                    FULL STACK
+                        │
+        ┌───────────────┴───────────────┐
+        │                               │
+     FRONTEND                         BACKEND
+        │                               │
+   React.js                         Java
+   JavaScript                      Spring Boot
+   HTML / CSS                      REST API
+        │                               │
+        └───────────────┬───────────────┘
+                        │
+                     DATABASE
+                        │
+                      MySQL
+                        │
+                     DEV TOOLS
+                        │
+              Git • GitHub • Postman
+```
+
+---
+
+# `05 // CURRENTLY LEVELING UP`
+
+```text
+JAVA
+████████████████████░░ 90%
+
+OOP
+██████████████████░░░░ 85%
+
+SQL
+████████████████░░░░░░ 80%
+
+SPRING BOOT
+███████████████░░░░░░░ 75%
+
+REACT
+██████████████░░░░░░░░ 70%
+
+DSA
+████████████░░░░░░░░░░ 60%
+
+PROBLEM SOLVING
+██████████████░░░░░░░░ 70%
+```
+
+> **The goal isn't to know everything.
+> The goal is to become dangerous at solving problems.**
+
+---
+
+# `06 // INTERNSHIPS`
+
+### `FULL STACK WEB DEVELOPMENT`
 
 **Brainery Spot — Coimbatore**
 
 `30 DAYS`
 
-* Worked on responsive web development
-* Built practical frontend components
-* Gained exposure to full-stack development workflow
+Worked on responsive web development and gained practical exposure to full-stack development workflows.
 
 ---
 
-### 📊 POWER BI & DATA ANALYTICS
+### `POWER BI & DATA ANALYTICS`
 
 **TechSigaram — Chennai**
 
 `10 DAYS`
 
-* SQL
-* Power BI dashboards
-* Data visualization
-* Report preparation
-* Client presentation exposure
+Worked with SQL, Power BI dashboards, data visualization, reports and client presentations.
 
 ---
 
-### ☕ JAVA DEVELOPMENT
+### `JAVA DEVELOPMENT`
 
 **Infosys Springboard**
 
@@ -259,79 +334,46 @@ Built **WellNest**, an AI-based personal health and fitness tracking companion a
 
 ---
 
-### 🔌 EMBEDDED SYSTEM DESIGN
+### `EMBEDDED SYSTEM DESIGN`
 
 **Pantech eLearning — Chennai**
 
 `15 DAYS`
 
-* Embedded system fundamentals
-* Real-time system concepts
-* Hardware/software interaction
-* Embedded development exposure
+Gained practical exposure to embedded technologies and real-time system development.
 
 ---
 
-# `05 // CERTIFICATIONS`
-
-| Certification                                   | Platform                 |
-| ----------------------------------------------- | ------------------------ |
-| ☕ Java Foundation                               | Infosys Springboard      |
-| 🔲 Digital Circuits                             | NPTEL                    |
-| 🌐 Introduction to IoT & Digital Transformation | Cisco Networking Academy |
-
----
-
-# `06 // CURRENTLY BUILDING`
+# `07 // CERTIFICATIONS`
 
 ```text
-JAVA
- ├── Core Java
- ├── OOP
- ├── Collections
- ├── Exception Handling
- └── Problem Solving
+[✓] Java Foundation Certification
+    └── Infosys Springboard
 
-DSA
- ├── Arrays
- ├── Strings
- ├── Linked Lists
- ├── Stack
- ├── Queue
- ├── Trees
- └── Algorithms
+[✓] Digital Circuits
+    └── NPTEL
 
-FULL STACK
- ├── Spring Boot
- ├── REST API
- ├── MySQL
- ├── React.js
- └── Authentication
-
-ECE / EMBEDDED
- ├── Embedded Systems
- ├── ESP32
- ├── Sensors
- ├── IoT
- └── Real-Time Systems
+[✓] Introduction to IoT & Digital Transformation
+    └── Cisco Networking Academy
 ```
 
 ---
 
-# `07 // ENGINEERING MINDSET`
+# `08 // DEVELOPER TERMINAL`
 
 ```java
-public class Abupakkar {
+public class Developer {
+
+    private static final String NAME = "Abupakkar Sithick";
 
     public static void main(String[] args) {
-
-        String mindset = "BUILD > TALK";
 
         while (true) {
 
             learn();
-            build();
-            test();
+            code();
+            solveProblems();
+            buildProjects();
             debug();
             improve();
 
@@ -340,33 +382,45 @@ public class Abupakkar {
 }
 ```
 
-> **"Don't compete with yesterday's version of someone else.
-> Build a better version of yourself every day."**
+### `EXECUTION STATUS`
+
+```text
+[✓] Learning
+[✓] Building
+[✓] Problem Solving
+[✓] Debugging
+[✓] Improving
+
+SYSTEM STATUS : ONLINE
+```
 
 ---
 
-# `08 // GITHUB ANALYTICS`
+# `09 // GITHUB ACTIVITY`
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ABUPAKKARSITHICK&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ABUPAKKARSITHICK&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=ABUPAKKARSITHICK&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=ABUPAKKARSITHICK&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ABUPAKKARSITHICK&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
----
-
-# `09 // CONTRIBUTION`
-
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ABUPAKKARSITHICK&theme=tokyo-night&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=ABUPAKKARSITHICK&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-# `10 // LET'S CONNECT`
+# `10 // CONTRIBUTION MATRIX`
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ABUPAKKARSITHICK&theme=tokyo-night&hide_border=true"/>
+</p>
+
+---
+
+# `11 // CONNECT`
 
 <p align="center">
 
@@ -388,14 +442,16 @@ public class Abupakkar {
 
 <p align="center">
 
-### `ENGINEERING IS NOT ABOUT KNOWING EVERYTHING.`
+```text
+╔══════════════════════════════════════════════════════╗
+║                                                      ║
+║        BUILD SOMETHING WORTH LOOKING AT.             ║
+║                                                      ║
+║        CODE  •  SOLVE  •  SHIP  •  REPEAT            ║
+║                                                      ║
+╚══════════════════════════════════════════════════════╝
+```
 
-### `IT'S ABOUT BEING ABLE TO FIGURE THINGS OUT.`
-
-<br>
-
-**BUILD • LEARN • DEBUG • REPEAT**
-
-⭐ Thanks for visiting my profile ⭐
+### `Thanks for visiting. Now check the code. ⚡`
 
 </p>
